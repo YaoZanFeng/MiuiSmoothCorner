@@ -29,6 +29,6 @@
 
 - ✅ **极致平滑**：消除传统圆角的“硬边”视觉突兀感- ✅ **MIUI 原生还原度**：视觉效果与小米系统应用圆角一致
 - ✅ **目前仅支持ViewSystem**
-- ⚠️ **若您需要Compose版本我将在后续更新至新的仓库**
-
+- ✅ **支持Compose和ViewSystem**
+- ✅ **若您需要ViewSystem版本可[跳转](https://github.com/YaoZanFeng/MiuiSmoothCorner-Compose)**
 ---
